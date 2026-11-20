@@ -4,13 +4,14 @@ Esta vez no hay nada que arreglar: el `docker-compose.yml` solo trae el correcto
 Tienes que **escribir tú los servicios y la configuración de Nginx** para que todo el tráfico
 entre por un único reverse proxy.
 
-- [Reglas](#-reglas)
-- [Antes de empezar](#-antes-de-empezar)
-- [Tus datos personales](#-tus-datos-personales)
-- [Qué tienes que montar](#-qué-tienes-que-montar)
-- [Requisitos](#-requisitos-05-puntos-cada-uno)
-- [El corrector](#-el-corrector)
-- [Entrega](#-entrega)
+- [🚦 Examen Docker · Bloque B — Monta tu reverse proxy](#-examen-docker--bloque-b--monta-tu-reverse-proxy)
+  - [📏 Reglas](#-reglas)
+  - [🚀 Antes de empezar](#-antes-de-empezar)
+  - [🪪 Tus datos personales](#-tus-datos-personales)
+  - [🧱 Qué tienes que montar](#-qué-tienes-que-montar)
+  - [✅ Requisitos (0,5 puntos cada uno)](#-requisitos-05-puntos-cada-uno)
+  - [🤖 El corrector](#-el-corrector)
+  - [📤 Entrega](#-entrega)
 
 ## 📏 Reglas
 
